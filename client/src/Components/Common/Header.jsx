@@ -4,7 +4,6 @@ import Button from "@mui/material/Button";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import AppBar from "@mui/material/AppBar";
-import { makeStyles } from "@mui/core";
 import React from "react";
 import { Link } from "react-router-dom";
 import "../styles/Header.css";
